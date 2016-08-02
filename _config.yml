@@ -1,0 +1,14 @@
+name: creativeflakes.in
+layout_spectrum: 0.29779706315674204
+typography_spectrum: 0.1729486956360956
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.9535089203540981
+  lightness: 0.19922135294672194
+  saturation: 0.1209454163989131
+  rhythmicContrast: 0.4064565404158268
